@@ -1,0 +1,38 @@
+
+.quote-corner{
+margin-right: 110px;
+color: black;
+background-color: bisque;
+word-wrap: break-word;
+width: 35%;
+height: 35%;
+box-sizing: border-box;
+display: inline-block;
+    
+} 
+.nav-item
+{
+    margin-left:45px;
+    float: left;
+}
+
+navbar-brand{
+    font-family: sans-serif;
+}
+
+.container-sm{
+    background-color: black;   
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    margin-top: 120px;
+    
+    
+    
+    
+}
+.footer-item{
+    color: white;
+    text-align: center;
+}
